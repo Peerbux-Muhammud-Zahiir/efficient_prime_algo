@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698738155 source:/home/peerbux/mysecondproject/Matrix_multiplication/main.cpp
+	<iostream>
+	<cmath>
+
